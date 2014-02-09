@@ -55,3 +55,5 @@ class rocket:
         r.down(2)
         r.fire()
         r.up(2)
+
+rocket.demo()
